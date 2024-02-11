@@ -4,7 +4,7 @@
 Badge 42:
 <a href="https://www.42madrid.com/" target="_blank"><img src="https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/stats?cursusId=21&coalitionId=65" alt="psegura-'s 42 stats" /></a>
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPepeSegura%2Fhit-counter&count_bg=%233DC849&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors+since+11%2F02%2F2024&edge_flat=false)](https://github.com/PepeSegura)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPepeSegura%2Fhit-counter&count_bg=%233DC849&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors+since+11%2F02%2F2024&edge_flat=true)](https://github.com/PepeSegura)
 
 [![PepeSegura's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeSegura&show_icons=true&theme=vue-dark)](https://profile.intra.42.fr/users/psegura-)
 
